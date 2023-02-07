@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Open the page of Google" skipped="0" tests="1" time="10.67" timestamp="2023-02-02 03:07:00"><testcase name="Open the page"><error message="Arity mismatch: Step Definition 'com.co.conduit.stepsdefinitions.OpenGoogleStepDefinition.heCanCheckTheLogoOfGoogle(String) in file:/C:/Users/Scastaño/GOOGLE_EXERCISE/build/classes/java/test/' with pattern [^he can check the logo of Google$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. &#10;Step text: he can check the logo of Google" type="cucumber.runtime.CucumberException">Arity
+    mismatch: Step Definition
+    'com.co.conduit.stepsdefinitions.OpenGoogleStepDefinition.heCanCheckTheLogoOfGoogle(String) in
+    file:/C:/Users/Scastaño/GOOGLE_EXERCISE/build/classes/java/test/' with pattern [^he can check the logo of Google$]
+    is declared with 1 parameters. However, the gherkin step has 0 arguments [].
+    Step text: he can check the logo of Google</error><system-err>Arity mismatch: Step Definition
+    'com.co.conduit.stepsdefinitions.OpenGoogleStepDefinition.heCanCheckTheLogoOfGoogle(String) in
+    file:/C:/Users/Scastaño/GOOGLE_EXERCISE/build/classes/java/test/' with pattern [^he can check the logo of Google$]
+    is declared with 1 parameters. However, the gherkin step has 0 arguments [].
+    Step text: he can check the logo of Google&#13;
+    cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Register" skipped="0" tests="1" time="0.29" timestamp="2022-10-31 02:46:05"><testcase name="Register"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.co.bonbonite.stepsdefinitions.RegisterStepDefinition.heUserEntersInThePage(RegisterStepDefinition.java:37)&#13;
+✽.he user enters in the page(src/test/resources/features/register.feature:5)&#13;
+</system-err></testcase></testsuite>

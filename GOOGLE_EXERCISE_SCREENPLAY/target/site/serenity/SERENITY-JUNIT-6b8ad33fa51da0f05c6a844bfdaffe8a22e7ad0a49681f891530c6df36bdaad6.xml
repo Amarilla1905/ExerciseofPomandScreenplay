@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Google" skipped="0" tests="1" time="1.2" timestamp="2023-02-07 09:26:11"><testcase name="Open Google"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+com.co.google.stepsdefinitions.OpenGoogleStepDefinition.theUserOpensTheGooglePage(OpenGoogleStepDefinition.java:33)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

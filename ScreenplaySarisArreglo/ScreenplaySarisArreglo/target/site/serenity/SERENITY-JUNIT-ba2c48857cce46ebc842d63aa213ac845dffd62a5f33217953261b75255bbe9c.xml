@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Register" skipped="0" tests="1" time="0.34" timestamp="2022-10-28 08:38:38"><testcase name="Register"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepsdefinitions.RegisterStepDefinition.heUserEntersInThePage(RegisterStepDefinition.java:29)&#13;
+✽.he user enters in the page(src/test/resources/features/register.feature:5)&#13;
+</system-err></testcase></testsuite>

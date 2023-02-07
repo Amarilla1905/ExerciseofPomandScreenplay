@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="login" skipped="0" tests="1" time="9.24" timestamp="2022-10-28 08:35:25"><testcase name="Login Successful"><error message="org.hamcrest.core.Is cannot be cast to net.serenitybdd.screenplay.Question" type="java.lang.ClassCastException">org.hamcrest.core.Is cannot be cast to net.serenitybdd.screenplay.Question</error><system-err>org.hamcrest.core.Is cannot be cast to net.serenitybdd.screenplay.Question&#13;
+com.co.prueba.stepsdefinitions.LoginStepDefinition.heUserCouldSeeUser(LoginStepDefinition.java:56)&#13;
+✽.he user could see user(src/test/resources/features/login.feature:10)&#13;
+</system-err></testcase></testsuite>
